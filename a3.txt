@@ -1,0 +1,20 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 5E1E-23A1
+
+ Directory of C:\Users\adiso\OneDrive\Desktop\GitPractice\Project_10
+
+01/16/2022  04:18 PM    <DIR>          .
+01/16/2022  04:18 PM    <DIR>          ..
+01/16/2022  12:22 PM                 2 a
+01/16/2022  02:09 PM               646 a1.txt
+01/16/2022  02:09 PM               646 a2.txt
+01/16/2022  04:18 PM                 0 a3.txt
+01/16/2022  12:24 PM                 0 b.txt
+01/16/2022  12:26 PM                 0 c.txt
+01/16/2022  12:55 PM                 0 d.txt
+01/16/2022  12:55 PM               553 e.txt
+01/16/2022  02:07 PM               553 f.txt
+01/16/2022  02:07 PM               691 g.txt
+01/16/2022  12:19 PM                12 README.md
+              11 File(s)          3,103 bytes
+               2 Dir(s)  751,774,789,632 bytes free
